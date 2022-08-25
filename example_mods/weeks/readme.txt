@@ -1,1 +1,1 @@
-Drop your custom week .json files here!
+Add your stage .json and .lua files here!

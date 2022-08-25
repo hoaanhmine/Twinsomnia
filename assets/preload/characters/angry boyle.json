@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "angry boy idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-25
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "angry boy down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "angry boy left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				33
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "angry boy up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				13
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "angry boy right0",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				-44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "angry boy down miss"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "angry boy left miss"
+		},
+		{
+			"offsets": [
+				0,
+				33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "angry boy up miss"
+		},
+		{
+			"offsets": [
+				0,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "angry boy right miss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/angry_boyp",
+	"position": [
+		-83,
+		-179
+	],
+	"healthicon": "boyp-n-girk-furious",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		320,
+		20
+	],
+	"sing_duration": 8.49999999999999,
+	"scale": 1
+}

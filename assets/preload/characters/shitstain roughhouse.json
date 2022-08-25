@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				11
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				37,
+				5
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				37,
+				69
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF Dead confirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-47,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "bf idle"
+		},
+		{
+			"offsets": [
+				-81,
+				29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bf up 30"
+		},
+		{
+			"offsets": [
+				-86,
+				3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf right 30"
+		},
+		{
+			"offsets": [
+				-7,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf down 30"
+		},
+		{
+			"offsets": [
+				-82,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "guh",
+			"indices": [],
+			"name": "bf woah 3"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-93,
+				28
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "bf up miss 3",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bf left 30",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-23
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "bf down miss 30",
+			"indices": []
+		},
+		{
+			"offsets": [
+				5,
+				-2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "bf left miss 30"
+		},
+		{
+			"offsets": [
+				-98,
+				2
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "bf right miss 30"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/the_one_in_roughhouse",
+	"position": [
+		-50,
+		390
+	],
+	"healthicon": "boof",
+	"flip_x": true,
+	"healthbar_colors": [
+		72,
+		60,
+		255
+	],
+	"camera_position": [
+		50,
+		60
+	],
+	"sing_duration": 6.99999999999999,
+	"scale": 1
+}

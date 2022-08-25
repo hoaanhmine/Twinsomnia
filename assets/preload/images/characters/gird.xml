@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gird.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="silly girl down0000" x="0" y="0" width="273" height="556" frameX="0" frameY="-4" frameWidth="273" frameHeight="560"/>
+	<SubTexture name="silly girl down0001" x="0" y="0" width="273" height="556" frameX="0" frameY="-4" frameWidth="273" frameHeight="560"/>
+	<SubTexture name="silly girl down0002" x="283" y="0" width="272" height="557" frameX="-1" frameY="-3" frameWidth="273" frameHeight="560"/>
+	<SubTexture name="silly girl down0003" x="283" y="0" width="272" height="557" frameX="-1" frameY="-3" frameWidth="273" frameHeight="560"/>
+	<SubTexture name="silly girl down0004" x="565" y="0" width="270" height="558" frameX="-2" frameY="-2" frameWidth="273" frameHeight="560"/>
+	<SubTexture name="silly girl down0005" x="565" y="0" width="270" height="558" frameX="-2" frameY="-2" frameWidth="273" frameHeight="560"/>
+	<SubTexture name="silly girl down0006" x="845" y="0" width="268" height="559" frameX="-4" frameY="-1" frameWidth="273" frameHeight="560"/>
+	<SubTexture name="silly girl down0007" x="845" y="0" width="268" height="559" frameX="-4" frameY="-1" frameWidth="273" frameHeight="560"/>
+	<SubTexture name="silly girl down0008" x="1123" y="0" width="268" height="559" frameX="-4" frameY="-1" frameWidth="273" frameHeight="560"/>
+	<SubTexture name="silly girl down0009" x="1123" y="0" width="268" height="559" frameX="-4" frameY="-1" frameWidth="273" frameHeight="560"/>
+	<SubTexture name="silly girl down0010" x="1401" y="0" width="269" height="559" frameX="-3" frameY="-1" frameWidth="273" frameHeight="560"/>
+	<SubTexture name="silly girl down0011" x="1401" y="0" width="269" height="559" frameX="-3" frameY="-1" frameWidth="273" frameHeight="560"/>
+	<SubTexture name="silly girl down0012" x="1680" y="0" width="268" height="559" frameX="-3" frameY="-1" frameWidth="273" frameHeight="560"/>
+	<SubTexture name="silly girl down0013" x="1680" y="0" width="268" height="559" frameX="-3" frameY="-1" frameWidth="273" frameHeight="560"/>
+	<SubTexture name="silly girl down0014" x="1958" y="0" width="268" height="559" frameX="-3" frameY="-1" frameWidth="273" frameHeight="560"/>
+	<SubTexture name="silly girl down0015" x="1958" y="0" width="268" height="559" frameX="-3" frameY="-1" frameWidth="273" frameHeight="560"/>
+	<SubTexture name="silly girl down0016" x="2236" y="0" width="267" height="559" frameX="-3" frameY="-1" frameWidth="273" frameHeight="560"/>
+	<SubTexture name="silly girl down0017" x="2236" y="0" width="267" height="559" frameX="-3" frameY="-1" frameWidth="273" frameHeight="560"/>
+	<SubTexture name="silly girl down0018" x="2513" y="0" width="267" height="560" frameX="-3" frameY="0" frameWidth="273" frameHeight="560"/>
+	<SubTexture name="silly girl down0019" x="2513" y="0" width="267" height="560" frameX="-3" frameY="0" frameWidth="273" frameHeight="560"/>
+	<SubTexture name="silly girl idle0000" x="2790" y="0" width="268" height="562"/>
+	<SubTexture name="silly girl idle0001" x="2790" y="0" width="268" height="562"/>
+	<SubTexture name="silly girl idle0002" x="3068" y="0" width="268" height="562"/>
+	<SubTexture name="silly girl idle0003" x="3068" y="0" width="268" height="562"/>
+	<SubTexture name="silly girl idle0004" x="3346" y="0" width="267" height="562" frameX="-1" frameY="0" frameWidth="268" frameHeight="562"/>
+	<SubTexture name="silly girl idle0005" x="3346" y="0" width="267" height="562" frameX="-1" frameY="0" frameWidth="268" frameHeight="562"/>
+	<SubTexture name="silly girl idle0006" x="3068" y="0" width="268" height="562"/>
+	<SubTexture name="silly girl idle0007" x="3068" y="0" width="268" height="562"/>
+	<SubTexture name="silly girl idle0008" x="3623" y="0" width="266" height="562" frameX="-1" frameY="0" frameWidth="268" frameHeight="562"/>
+	<SubTexture name="silly girl idle0009" x="3623" y="0" width="266" height="562" frameX="-1" frameY="0" frameWidth="268" frameHeight="562"/>
+	<SubTexture name="silly girl idle0010" x="0" y="572" width="268" height="561" frameX="0" frameY="-1" frameWidth="268" frameHeight="562"/>
+	<SubTexture name="silly girl idle0011" x="0" y="572" width="268" height="561" frameX="0" frameY="-1" frameWidth="268" frameHeight="562"/>
+	<SubTexture name="silly girl idle0012" x="278" y="572" width="268" height="561" frameX="0" frameY="-1" frameWidth="268" frameHeight="562"/>
+	<SubTexture name="silly girl idle0013" x="278" y="572" width="268" height="561" frameX="0" frameY="-1" frameWidth="268" frameHeight="562"/>
+	<SubTexture name="silly girl left0000" x="556" y="572" width="265" height="562" frameX="0" frameY="0" frameWidth="266" frameHeight="562"/>
+	<SubTexture name="silly girl left0001" x="556" y="572" width="265" height="562" frameX="0" frameY="0" frameWidth="266" frameHeight="562"/>
+	<SubTexture name="silly girl left0002" x="831" y="572" width="265" height="562" frameX="0" frameY="0" frameWidth="266" frameHeight="562"/>
+	<SubTexture name="silly girl left0003" x="831" y="572" width="265" height="562" frameX="0" frameY="0" frameWidth="266" frameHeight="562"/>
+	<SubTexture name="silly girl left0004" x="1106" y="572" width="266" height="562"/>
+	<SubTexture name="silly girl left0005" x="1106" y="572" width="266" height="562"/>
+	<SubTexture name="silly girl left0006" x="1382" y="572" width="266" height="562"/>
+	<SubTexture name="silly girl left0007" x="1382" y="572" width="266" height="562"/>
+	<SubTexture name="silly girl left0008" x="1658" y="572" width="266" height="561" frameX="0" frameY="-1" frameWidth="266" frameHeight="562"/>
+	<SubTexture name="silly girl left0009" x="1658" y="572" width="266" height="561" frameX="0" frameY="-1" frameWidth="266" frameHeight="562"/>
+	<SubTexture name="silly girl left0010" x="1934" y="572" width="265" height="560" frameX="0" frameY="-2" frameWidth="266" frameHeight="562"/>
+	<SubTexture name="silly girl left0011" x="1934" y="572" width="265" height="560" frameX="0" frameY="-2" frameWidth="266" frameHeight="562"/>
+	<SubTexture name="silly girl left0012" x="2209" y="572" width="264" height="558" frameX="0" frameY="-4" frameWidth="266" frameHeight="562"/>
+	<SubTexture name="silly girl left0013" x="2209" y="572" width="264" height="558" frameX="0" frameY="-4" frameWidth="266" frameHeight="562"/>
+	<SubTexture name="silly girl left0014" x="2483" y="572" width="263" height="556" frameX="0" frameY="-6" frameWidth="266" frameHeight="562"/>
+	<SubTexture name="silly girl left0015" x="2483" y="572" width="263" height="556" frameX="0" frameY="-6" frameWidth="266" frameHeight="562"/>
+	<SubTexture name="silly girl left0016" x="2756" y="572" width="263" height="556" frameX="0" frameY="-6" frameWidth="266" frameHeight="562"/>
+	<SubTexture name="silly girl left0017" x="2756" y="572" width="263" height="556" frameX="0" frameY="-6" frameWidth="266" frameHeight="562"/>
+	<SubTexture name="silly girl left0018" x="3029" y="572" width="266" height="559" frameX="0" frameY="-3" frameWidth="266" frameHeight="562"/>
+	<SubTexture name="silly girl left0019" x="3029" y="572" width="266" height="559" frameX="0" frameY="-3" frameWidth="266" frameHeight="562"/>
+	<SubTexture name="silly girl right0000" x="3305" y="572" width="283" height="562"/>
+	<SubTexture name="silly girl right0001" x="3305" y="572" width="283" height="562"/>
+	<SubTexture name="silly girl right0002" x="3598" y="572" width="282" height="562" frameX="0" frameY="0" frameWidth="283" frameHeight="562"/>
+	<SubTexture name="silly girl right0003" x="3598" y="572" width="282" height="562" frameX="0" frameY="0" frameWidth="283" frameHeight="562"/>
+	<SubTexture name="silly girl right0004" x="0" y="1144" width="281" height="562" frameX="0" frameY="0" frameWidth="283" frameHeight="562"/>
+	<SubTexture name="silly girl right0005" x="0" y="1144" width="281" height="562" frameX="0" frameY="0" frameWidth="283" frameHeight="562"/>
+	<SubTexture name="silly girl right0006" x="291" y="1144" width="280" height="562" frameX="0" frameY="0" frameWidth="283" frameHeight="562"/>
+	<SubTexture name="silly girl right0007" x="291" y="1144" width="280" height="562" frameX="0" frameY="0" frameWidth="283" frameHeight="562"/>
+	<SubTexture name="silly girl right0008" x="581" y="1144" width="280" height="561" frameX="0" frameY="-1" frameWidth="283" frameHeight="562"/>
+	<SubTexture name="silly girl right0009" x="581" y="1144" width="280" height="561" frameX="0" frameY="-1" frameWidth="283" frameHeight="562"/>
+	<SubTexture name="silly girl right0010" x="871" y="1144" width="278" height="560" frameX="0" frameY="-2" frameWidth="283" frameHeight="562"/>
+	<SubTexture name="silly girl right0011" x="871" y="1144" width="278" height="560" frameX="0" frameY="-2" frameWidth="283" frameHeight="562"/>
+	<SubTexture name="silly girl right0012" x="1159" y="1144" width="275" height="558" frameX="0" frameY="-4" frameWidth="283" frameHeight="562"/>
+	<SubTexture name="silly girl right0013" x="1159" y="1144" width="275" height="558" frameX="0" frameY="-4" frameWidth="283" frameHeight="562"/>
+	<SubTexture name="silly girl right0014" x="1444" y="1144" width="271" height="556" frameX="0" frameY="-6" frameWidth="283" frameHeight="562"/>
+	<SubTexture name="silly girl right0015" x="1444" y="1144" width="271" height="556" frameX="0" frameY="-6" frameWidth="283" frameHeight="562"/>
+	<SubTexture name="silly girl right0016" x="1725" y="1144" width="268" height="556" frameX="0" frameY="-6" frameWidth="283" frameHeight="562"/>
+	<SubTexture name="silly girl right0017" x="1725" y="1144" width="268" height="556" frameX="0" frameY="-6" frameWidth="283" frameHeight="562"/>
+	<SubTexture name="silly girl right0018" x="2003" y="1144" width="267" height="559" frameX="0" frameY="-3" frameWidth="283" frameHeight="562"/>
+	<SubTexture name="silly girl right0019" x="2003" y="1144" width="267" height="559" frameX="0" frameY="-3" frameWidth="283" frameHeight="562"/>
+	<SubTexture name="silly girl up0000" x="2280" y="1144" width="263" height="567" frameX="-3" frameY="0" frameWidth="267" frameHeight="567"/>
+	<SubTexture name="silly girl up0001" x="2280" y="1144" width="263" height="567" frameX="-3" frameY="0" frameWidth="267" frameHeight="567"/>
+	<SubTexture name="silly girl up0002" x="2553" y="1144" width="263" height="566" frameX="-3" frameY="-1" frameWidth="267" frameHeight="567"/>
+	<SubTexture name="silly girl up0003" x="2553" y="1144" width="263" height="566" frameX="-3" frameY="-1" frameWidth="267" frameHeight="567"/>
+	<SubTexture name="silly girl up0004" x="2826" y="1144" width="265" height="565" frameX="-2" frameY="-2" frameWidth="267" frameHeight="567"/>
+	<SubTexture name="silly girl up0005" x="2826" y="1144" width="265" height="565" frameX="-2" frameY="-2" frameWidth="267" frameHeight="567"/>
+	<SubTexture name="silly girl up0006" x="3101" y="1144" width="266" height="564" frameX="-1" frameY="-3" frameWidth="267" frameHeight="567"/>
+	<SubTexture name="silly girl up0007" x="3101" y="1144" width="266" height="564" frameX="-1" frameY="-3" frameWidth="267" frameHeight="567"/>
+	<SubTexture name="silly girl up0008" x="3377" y="1144" width="265" height="562" frameX="-1" frameY="-5" frameWidth="267" frameHeight="567"/>
+	<SubTexture name="silly girl up0009" x="3377" y="1144" width="265" height="562" frameX="-1" frameY="-5" frameWidth="267" frameHeight="567"/>
+	<SubTexture name="silly girl up0010" x="3652" y="1144" width="264" height="561" frameX="-1" frameY="-6" frameWidth="267" frameHeight="567"/>
+	<SubTexture name="silly girl up0011" x="3652" y="1144" width="264" height="561" frameX="-1" frameY="-6" frameWidth="267" frameHeight="567"/>
+	<SubTexture name="silly girl up0012" x="0" y="1721" width="264" height="560" frameX="-1" frameY="-7" frameWidth="267" frameHeight="567"/>
+	<SubTexture name="silly girl up0013" x="0" y="1721" width="264" height="560" frameX="-1" frameY="-7" frameWidth="267" frameHeight="567"/>
+	<SubTexture name="silly girl up0014" x="274" y="1721" width="266" height="560" frameX="0" frameY="-7" frameWidth="267" frameHeight="567"/>
+	<SubTexture name="silly girl up0015" x="274" y="1721" width="266" height="560" frameX="0" frameY="-7" frameWidth="267" frameHeight="567"/>
+	<SubTexture name="silly girl up0016" x="550" y="1721" width="266" height="560" frameX="0" frameY="-7" frameWidth="267" frameHeight="567"/>
+	<SubTexture name="silly girl up0017" x="550" y="1721" width="266" height="560" frameX="0" frameY="-7" frameWidth="267" frameHeight="567"/>
+	<SubTexture name="silly girl up0018" x="826" y="1721" width="267" height="561" frameX="0" frameY="-6" frameWidth="267" frameHeight="567"/>
+	<SubTexture name="silly girl up0019" x="826" y="1721" width="267" height="561" frameX="0" frameY="-6" frameWidth="267" frameHeight="567"/>
+</TextureAtlas>

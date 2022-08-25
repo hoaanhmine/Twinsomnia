@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "lil boy idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-26,
+				-12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "lil boy right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				52,
+				5
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "lil boy up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lil boy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				79,
+				-4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lil boy left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				107,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "your move tee hee",
+			"loop": false,
+			"name": "lil boy point"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/boyp",
+	"position": [
+		-40,
+		80
+	],
+	"healthicon": "boy",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		200,
+		255
+	],
+	"camera_position": [
+		40,
+		60
+	],
+	"sing_duration": 7,
+	"scale": 1
+}

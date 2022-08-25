@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "boy idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-7,
+				-15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "crack",
+			"loop": false,
+			"name": "boy neck crack"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ass_crack",
+	"position": [
+		-670,
+		-141
+	],
+	"healthicon": "boyp-n-girk",
+	"flip_x": false,
+	"healthbar_colors": [
+		112,
+		0,
+		155
+	],
+	"camera_position": [
+		320,
+		9
+	],
+	"sing_duration": 9.99999999999998,
+	"scale": 1
+}

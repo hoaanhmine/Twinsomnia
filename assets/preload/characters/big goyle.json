@@ -1,0 +1,131 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "girl left"
+		},
+		{
+			"offsets": [
+				15,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "girl down"
+		},
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "girl up"
+		},
+		{
+			"offsets": [
+				-8,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "girl right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28
+			],
+			"name": "girl idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "girl idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				19
+			],
+			"anim": "dust",
+			"fps": 24,
+			"name": "girl dusting",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/big_goyle",
+	"position": [
+		-680,
+		29
+	],
+	"healthicon": "boyp-n-girk",
+	"flip_x": false,
+	"healthbar_colors": [
+		112,
+		0,
+		155
+	],
+	"camera_position": [
+		620,
+		0
+	],
+	"sing_duration": 9.99999999999999,
+	"scale": 1
+}

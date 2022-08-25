@@ -1,0 +1,59 @@
+{
+	"storyName": "Beepers Sleepers",
+	"difficulties": "Normal,Hard",
+	"hideFreeplay": false,
+	"weekBackground": "bedroom",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"sleeptalk",
+			"girl",
+			[
+				255,
+				133,
+				235
+			]
+		],
+		[
+			"roughhouse",
+			"boy",
+			[
+				26,
+				93,
+				255
+			]
+		],
+		[
+			"power-hour",
+			"boyp-n-girk",
+			[
+				126,
+				53,
+				255
+			]
+		],
+		[
+			"boogieman",
+			"boogieman",
+			[
+				40,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"boy",
+		"",
+		"girl"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "BG Week"
+}

@@ -1,0 +1,211 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "smaller girl left bop"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			],
+			"name": "smaller girl left bop"
+		},
+		{
+			"offsets": [
+				-4,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft-alt",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "smaller girl right bop"
+		},
+		{
+			"offsets": [
+				-4,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight-alt",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			],
+			"name": "smaller girl right bop"
+		},
+		{
+			"offsets": [
+				2,
+				-19
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "sad",
+			"indices": [],
+			"name": "smaller girl combo break"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "turnRight",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "smaller girl right bop turn"
+		},
+		{
+			"offsets": [
+				3,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "turnLeft",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "smaller girl left bop turn"
+		},
+		{
+			"offsets": [
+				-7,
+				45
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "clap",
+			"indices": [],
+			"name": "smaller girl clappy"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/goyle_metronomo",
+	"position": [
+		180,
+		390
+	],
+	"healthicon": "girl",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		160,
+		255
+	],
+	"camera_position": [
+		-40,
+		-10
+	],
+	"sing_duration": 5.5,
+	"scale": 1
+}

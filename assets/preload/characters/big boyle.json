@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "boy idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				21
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "boy left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-42
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "boy down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				46
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "boy up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				-23
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "boy right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/big_boyle",
+	"position": [
+		-670,
+		-141
+	],
+	"healthicon": "boyp-n-girk",
+	"flip_x": false,
+	"healthbar_colors": [
+		112,
+		0,
+		155
+	],
+	"camera_position": [
+		320,
+		9
+	],
+	"sing_duration": 9.99999999999998,
+	"scale": 1
+}

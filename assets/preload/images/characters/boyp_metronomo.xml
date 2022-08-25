@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boyp metronomo.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="smaller boy combo break0000" x="0" y="0" width="282" height="378"/>
+	<SubTexture name="smaller boy combo break0001" x="0" y="0" width="282" height="378"/>
+	<SubTexture name="smaller boy combo break0002" x="292" y="0" width="282" height="378"/>
+	<SubTexture name="smaller boy combo break0003" x="292" y="0" width="282" height="378"/>
+	<SubTexture name="smaller boy combo break0004" x="584" y="0" width="282" height="378"/>
+	<SubTexture name="smaller boy combo break0005" x="584" y="0" width="282" height="378"/>
+	<SubTexture name="smaller boy combo break0006" x="876" y="0" width="282" height="378"/>
+	<SubTexture name="smaller boy combo break0007" x="876" y="0" width="282" height="378"/>
+	<SubTexture name="smaller boy combo break0008" x="876" y="0" width="282" height="378"/>
+	<SubTexture name="smaller boy combo break0009" x="876" y="0" width="282" height="378"/>
+	<SubTexture name="smaller boy combo break0010" x="876" y="0" width="282" height="378"/>
+	<SubTexture name="smaller boy combo break0011" x="876" y="0" width="282" height="378"/>
+	<SubTexture name="smaller boy combo break0012" x="876" y="0" width="282" height="378"/>
+	<SubTexture name="smaller boy combo break0013" x="876" y="0" width="282" height="378"/>
+	<SubTexture name="smaller boy combo break0014" x="876" y="0" width="282" height="378"/>
+	<SubTexture name="smaller boy combo break0015" x="876" y="0" width="282" height="378"/>
+	<SubTexture name="smaller boy combo break0016" x="876" y="0" width="282" height="378"/>
+	<SubTexture name="smaller boy combo break0017" x="876" y="0" width="282" height="378"/>
+	<SubTexture name="smaller boy combo break0018" x="876" y="0" width="282" height="378"/>
+	<SubTexture name="smaller boy combo break0019" x="876" y="0" width="282" height="378"/>
+	<SubTexture name="smaller boy combo break0020" x="876" y="0" width="282" height="378"/>
+	<SubTexture name="smaller boy combo break0021" x="876" y="0" width="282" height="378"/>
+	<SubTexture name="smaller boy combo break0022" x="876" y="0" width="282" height="378"/>
+	<SubTexture name="smaller boy combo break0023" x="876" y="0" width="282" height="378"/>
+	<SubTexture name="smaller boy combo break0024" x="876" y="0" width="282" height="378"/>
+	<SubTexture name="smaller boy combo break0025" x="876" y="0" width="282" height="378"/>
+	<SubTexture name="smaller boy combo break0026" x="876" y="0" width="282" height="378"/>
+	<SubTexture name="smaller boy combo break0027" x="876" y="0" width="282" height="378"/>
+	<SubTexture name="smaller boy combo break0028" x="876" y="0" width="282" height="378"/>
+	<SubTexture name="smaller boy combo break0029" x="876" y="0" width="282" height="378"/>
+	<SubTexture name="smaller boy left bop0000" x="1168" y="0" width="292" height="401"/>
+	<SubTexture name="smaller boy left bop0001" x="1168" y="0" width="292" height="401"/>
+	<SubTexture name="smaller boy left bop0002" x="1470" y="0" width="292" height="401"/>
+	<SubTexture name="smaller boy left bop0003" x="1470" y="0" width="292" height="401"/>
+	<SubTexture name="smaller boy left bop0004" x="1772" y="0" width="292" height="401"/>
+	<SubTexture name="smaller boy left bop0005" x="1772" y="0" width="292" height="401"/>
+	<SubTexture name="smaller boy left bop0006" x="2074" y="0" width="292" height="401"/>
+	<SubTexture name="smaller boy left bop0007" x="2074" y="0" width="292" height="401"/>
+	<SubTexture name="smaller boy left bop0008" x="2376" y="0" width="292" height="401"/>
+	<SubTexture name="smaller boy left bop0009" x="2376" y="0" width="292" height="401"/>
+	<SubTexture name="smaller boy left bop0010" x="2678" y="0" width="292" height="401"/>
+	<SubTexture name="smaller boy left bop0011" x="2678" y="0" width="292" height="401"/>
+	<SubTexture name="smaller boy left bop0012" x="2678" y="0" width="292" height="401"/>
+	<SubTexture name="smaller boy left bop0013" x="2980" y="0" width="292" height="401"/>
+	<SubTexture name="smaller boy left bop0014" x="2980" y="0" width="292" height="401"/>
+	<SubTexture name="smaller boy left bop0015" x="3282" y="0" width="292" height="401"/>
+	<SubTexture name="smaller boy left bop0016" x="3282" y="0" width="292" height="401"/>
+	<SubTexture name="smaller boy left bop0017" x="3584" y="0" width="292" height="401"/>
+	<SubTexture name="smaller boy left bop0018" x="3584" y="0" width="292" height="401"/>
+	<SubTexture name="smaller boy left bop0019" x="0" y="411" width="292" height="401"/>
+	<SubTexture name="smaller boy left bop0020" x="0" y="411" width="292" height="401"/>
+	<SubTexture name="smaller boy left bop0021" x="302" y="411" width="292" height="401"/>
+	<SubTexture name="smaller boy left bop0022" x="302" y="411" width="292" height="401"/>
+	<SubTexture name="smaller boy left bop0023" x="604" y="411" width="292" height="401"/>
+	<SubTexture name="smaller boy left bop0024" x="604" y="411" width="292" height="401"/>
+	<SubTexture name="smaller boy left bop0025" x="2678" y="0" width="292" height="401"/>
+	<SubTexture name="smaller boy left bop0026" x="2678" y="0" width="292" height="401"/>
+	<SubTexture name="smaller boy left bop0027" x="2678" y="0" width="292" height="401"/>
+	<SubTexture name="smaller boy left bop0028" x="906" y="411" width="292" height="401"/>
+	<SubTexture name="smaller boy left bop0029" x="906" y="411" width="292" height="401"/>
+	<SubTexture name="smaller boy left bop turn0000" x="1208" y="411" width="322" height="401"/>
+	<SubTexture name="smaller boy left bop turn0001" x="1208" y="411" width="322" height="401"/>
+	<SubTexture name="smaller boy left bop turn0002" x="1540" y="411" width="322" height="401"/>
+	<SubTexture name="smaller boy left bop turn0003" x="1540" y="411" width="322" height="401"/>
+	<SubTexture name="smaller boy left bop turn0004" x="1872" y="411" width="322" height="401"/>
+	<SubTexture name="smaller boy left bop turn0005" x="1872" y="411" width="322" height="401"/>
+	<SubTexture name="smaller boy left bop turn0006" x="2204" y="411" width="322" height="401"/>
+	<SubTexture name="smaller boy left bop turn0007" x="2204" y="411" width="322" height="401"/>
+	<SubTexture name="smaller boy left bop turn0008" x="2536" y="411" width="322" height="401"/>
+	<SubTexture name="smaller boy left bop turn0009" x="2536" y="411" width="322" height="401"/>
+	<SubTexture name="smaller boy left bop turn0010" x="2868" y="411" width="322" height="401"/>
+	<SubTexture name="smaller boy left bop turn0011" x="2868" y="411" width="322" height="401"/>
+	<SubTexture name="smaller boy left bop turn0012" x="2868" y="411" width="322" height="401"/>
+	<SubTexture name="smaller boy left bop turn0013" x="3200" y="411" width="322" height="401"/>
+	<SubTexture name="smaller boy left bop turn0014" x="3200" y="411" width="322" height="401"/>
+	<SubTexture name="smaller boy left bop turn0015" x="3532" y="411" width="322" height="401"/>
+	<SubTexture name="smaller boy left bop turn0016" x="3532" y="411" width="322" height="401"/>
+	<SubTexture name="smaller boy left bop turn0017" x="0" y="822" width="322" height="401"/>
+	<SubTexture name="smaller boy left bop turn0018" x="0" y="822" width="322" height="401"/>
+	<SubTexture name="smaller boy left bop turn0019" x="332" y="822" width="322" height="401"/>
+	<SubTexture name="smaller boy left bop turn0020" x="332" y="822" width="322" height="401"/>
+	<SubTexture name="smaller boy left bop turn0021" x="664" y="822" width="322" height="401"/>
+	<SubTexture name="smaller boy left bop turn0022" x="664" y="822" width="322" height="401"/>
+	<SubTexture name="smaller boy left bop turn0023" x="996" y="822" width="322" height="401"/>
+	<SubTexture name="smaller boy left bop turn0024" x="996" y="822" width="322" height="401"/>
+	<SubTexture name="smaller boy left bop turn0025" x="2868" y="411" width="322" height="401"/>
+	<SubTexture name="smaller boy left bop turn0026" x="2868" y="411" width="322" height="401"/>
+	<SubTexture name="smaller boy left bop turn0027" x="2868" y="411" width="322" height="401"/>
+	<SubTexture name="smaller boy left bop turn0028" x="1328" y="822" width="322" height="401"/>
+	<SubTexture name="smaller boy left bop turn0029" x="1328" y="822" width="322" height="401"/>
+	<SubTexture name="smaller boy light switch0000" x="1660" y="822" width="804" height="434"/>
+	<SubTexture name="smaller boy light switch0001" x="1660" y="822" width="804" height="434"/>
+	<SubTexture name="smaller boy light switch0002" x="2474" y="822" width="804" height="434"/>
+	<SubTexture name="smaller boy light switch0003" x="2474" y="822" width="804" height="434"/>
+	<SubTexture name="smaller boy light switch0004" x="2474" y="822" width="804" height="434"/>
+	<SubTexture name="smaller boy light switch0005" x="2474" y="822" width="804" height="434"/>
+	<SubTexture name="smaller boy light switch0006" x="2474" y="822" width="804" height="434"/>
+	<SubTexture name="smaller boy light switch0007" x="2474" y="822" width="804" height="434"/>
+	<SubTexture name="smaller boy light switch0008" x="2474" y="822" width="804" height="434"/>
+	<SubTexture name="smaller boy light switch0009" x="2474" y="822" width="804" height="434"/>
+	<SubTexture name="smaller boy light switch0010" x="2474" y="822" width="804" height="434"/>
+	<SubTexture name="smaller boy light switch0011" x="2474" y="822" width="804" height="434"/>
+	<SubTexture name="smaller boy light switch0012" x="3288" y="822" width="804" height="434"/>
+	<SubTexture name="smaller boy light switch0013" x="3288" y="822" width="804" height="434"/>
+	<SubTexture name="smaller boy light switch0014" x="0" y="1266" width="804" height="434"/>
+	<SubTexture name="smaller boy light switch0015" x="0" y="1266" width="804" height="434"/>
+	<SubTexture name="smaller boy light switch0016" x="814" y="1266" width="804" height="434"/>
+	<SubTexture name="smaller boy light switch0017" x="814" y="1266" width="804" height="434"/>
+	<SubTexture name="smaller boy light switch0018" x="814" y="1266" width="804" height="434"/>
+	<SubTexture name="smaller boy light switch0019" x="1628" y="1266" width="804" height="434"/>
+	<SubTexture name="smaller boy light switch0020" x="1628" y="1266" width="804" height="434"/>
+	<SubTexture name="smaller boy light switch0021" x="1628" y="1266" width="804" height="434"/>
+	<SubTexture name="smaller boy light switch0022" x="2442" y="1266" width="804" height="434"/>
+	<SubTexture name="smaller boy light switch0023" x="2442" y="1266" width="804" height="434"/>
+	<SubTexture name="smaller boy light switch0024" x="2442" y="1266" width="804" height="434"/>
+	<SubTexture name="smaller boy light switch0025" x="3256" y="1266" width="804" height="434"/>
+	<SubTexture name="smaller boy light switch0026" x="3256" y="1266" width="804" height="434"/>
+	<SubTexture name="smaller boy right bop0000" x="0" y="1710" width="292" height="401"/>
+	<SubTexture name="smaller boy right bop0001" x="0" y="1710" width="292" height="401"/>
+	<SubTexture name="smaller boy right bop0002" x="302" y="1710" width="292" height="401"/>
+	<SubTexture name="smaller boy right bop0003" x="302" y="1710" width="292" height="401"/>
+	<SubTexture name="smaller boy right bop0004" x="604" y="1710" width="292" height="401"/>
+	<SubTexture name="smaller boy right bop0005" x="604" y="1710" width="292" height="401"/>
+	<SubTexture name="smaller boy right bop0006" x="906" y="1710" width="292" height="401"/>
+	<SubTexture name="smaller boy right bop0007" x="906" y="1710" width="292" height="401"/>
+	<SubTexture name="smaller boy right bop0008" x="1208" y="1710" width="292" height="401"/>
+	<SubTexture name="smaller boy right bop0009" x="1208" y="1710" width="292" height="401"/>
+	<SubTexture name="smaller boy right bop0010" x="1510" y="1710" width="292" height="401"/>
+	<SubTexture name="smaller boy right bop0011" x="1510" y="1710" width="292" height="401"/>
+	<SubTexture name="smaller boy right bop0012" x="1510" y="1710" width="292" height="401"/>
+	<SubTexture name="smaller boy right bop0013" x="1812" y="1710" width="292" height="401"/>
+	<SubTexture name="smaller boy right bop0014" x="1812" y="1710" width="292" height="401"/>
+	<SubTexture name="smaller boy right bop0015" x="2114" y="1710" width="292" height="401"/>
+	<SubTexture name="smaller boy right bop0016" x="2114" y="1710" width="292" height="401"/>
+	<SubTexture name="smaller boy right bop0017" x="2416" y="1710" width="292" height="401"/>
+	<SubTexture name="smaller boy right bop0018" x="2416" y="1710" width="292" height="401"/>
+	<SubTexture name="smaller boy right bop0019" x="2718" y="1710" width="292" height="401"/>
+	<SubTexture name="smaller boy right bop0020" x="2718" y="1710" width="292" height="401"/>
+	<SubTexture name="smaller boy right bop0021" x="3020" y="1710" width="292" height="401"/>
+	<SubTexture name="smaller boy right bop0022" x="3020" y="1710" width="292" height="401"/>
+	<SubTexture name="smaller boy right bop0023" x="3322" y="1710" width="292" height="401"/>
+	<SubTexture name="smaller boy right bop0024" x="3322" y="1710" width="292" height="401"/>
+	<SubTexture name="smaller boy right bop0025" x="1510" y="1710" width="292" height="401"/>
+	<SubTexture name="smaller boy right bop0026" x="1510" y="1710" width="292" height="401"/>
+	<SubTexture name="smaller boy right bop0027" x="1510" y="1710" width="292" height="401"/>
+	<SubTexture name="smaller boy right bop0028" x="3624" y="1710" width="292" height="401"/>
+	<SubTexture name="smaller boy right bop0029" x="3624" y="1710" width="292" height="401"/>
+	<SubTexture name="smaller boy right bop turn0000" x="0" y="2121" width="321" height="391"/>
+	<SubTexture name="smaller boy right bop turn0001" x="0" y="2121" width="321" height="391"/>
+	<SubTexture name="smaller boy right bop turn0002" x="331" y="2121" width="321" height="391"/>
+	<SubTexture name="smaller boy right bop turn0003" x="331" y="2121" width="321" height="391"/>
+	<SubTexture name="smaller boy right bop turn0004" x="662" y="2121" width="321" height="391"/>
+	<SubTexture name="smaller boy right bop turn0005" x="662" y="2121" width="321" height="391"/>
+	<SubTexture name="smaller boy right bop turn0006" x="993" y="2121" width="321" height="391"/>
+	<SubTexture name="smaller boy right bop turn0007" x="993" y="2121" width="321" height="391"/>
+	<SubTexture name="smaller boy right bop turn0008" x="1324" y="2121" width="321" height="391"/>
+	<SubTexture name="smaller boy right bop turn0009" x="1324" y="2121" width="321" height="391"/>
+	<SubTexture name="smaller boy right bop turn0010" x="1655" y="2121" width="321" height="391"/>
+	<SubTexture name="smaller boy right bop turn0011" x="1655" y="2121" width="321" height="391"/>
+	<SubTexture name="smaller boy right bop turn0012" x="1655" y="2121" width="321" height="391"/>
+	<SubTexture name="smaller boy right bop turn0013" x="1986" y="2121" width="321" height="391"/>
+	<SubTexture name="smaller boy right bop turn0014" x="1986" y="2121" width="321" height="391"/>
+	<SubTexture name="smaller boy right bop turn0015" x="2317" y="2121" width="321" height="391"/>
+	<SubTexture name="smaller boy right bop turn0016" x="2317" y="2121" width="321" height="391"/>
+	<SubTexture name="smaller boy right bop turn0017" x="2648" y="2121" width="321" height="391"/>
+	<SubTexture name="smaller boy right bop turn0018" x="2648" y="2121" width="321" height="391"/>
+	<SubTexture name="smaller boy right bop turn0019" x="2979" y="2121" width="321" height="391"/>
+	<SubTexture name="smaller boy right bop turn0020" x="2979" y="2121" width="321" height="391"/>
+	<SubTexture name="smaller boy right bop turn0021" x="3310" y="2121" width="321" height="391"/>
+	<SubTexture name="smaller boy right bop turn0022" x="3310" y="2121" width="321" height="391"/>
+	<SubTexture name="smaller boy right bop turn0023" x="3641" y="2121" width="321" height="391"/>
+	<SubTexture name="smaller boy right bop turn0024" x="3641" y="2121" width="321" height="391"/>
+	<SubTexture name="smaller boy right bop turn0025" x="1655" y="2121" width="321" height="391"/>
+	<SubTexture name="smaller boy right bop turn0026" x="1655" y="2121" width="321" height="391"/>
+	<SubTexture name="smaller boy right bop turn0027" x="1655" y="2121" width="321" height="391"/>
+	<SubTexture name="smaller boy right bop turn0028" x="0" y="2522" width="321" height="391"/>
+	<SubTexture name="smaller boy right bop turn0029" x="0" y="2522" width="321" height="391"/>
+</TextureAtlas>

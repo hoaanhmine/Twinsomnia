@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-36,
+				110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "silly girl idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				110
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "silly girl right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				116
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "silly girl up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				108
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "silly girl down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				110
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "silly girl left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/gird",
+	"position": [
+		0,
+		260
+	],
+	"healthicon": "trickolight",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		30,
+		-10
+	],
+	"sing_duration": 4.9,
+	"scale": 1
+}

@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "umm",
+			"fps": 24,
+			"name": "lemon surprised",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/oh_ok",
+	"position": [
+		-440,
+		-340
+	],
+	"healthicon": "boogieman",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		190,
+		380
+	],
+	"sing_duration": 8.49999999999997,
+	"scale": 1
+}

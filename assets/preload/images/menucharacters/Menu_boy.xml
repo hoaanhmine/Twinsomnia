@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_boy.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lil boy idle0000" x="3" y="3" width="374" height="664" frameX="-19" frameY="-25" frameWidth="393" frameHeight="692"/>
+	<SubTexture name="lil boy idle0001" x="3" y="3" width="374" height="664" frameX="-19" frameY="-25" frameWidth="393" frameHeight="692"/>
+	<SubTexture name="lil boy idle0002" x="380" y="3" width="374" height="665" frameX="-19" frameY="-24" frameWidth="393" frameHeight="692"/>
+	<SubTexture name="lil boy idle0003" x="380" y="3" width="374" height="665" frameX="-19" frameY="-24" frameWidth="393" frameHeight="692"/>
+	<SubTexture name="lil boy idle0004" x="757" y="3" width="372" height="676" frameX="-18" frameY="-14" frameWidth="393" frameHeight="692"/>
+	<SubTexture name="lil boy idle0005" x="757" y="3" width="372" height="676" frameX="-18" frameY="-14" frameWidth="393" frameHeight="692"/>
+	<SubTexture name="lil boy idle0006" x="1132" y="3" width="376" height="690" frameX="-12" frameY="-1" frameWidth="393" frameHeight="692"/>
+	<SubTexture name="lil boy idle0007" x="1132" y="3" width="376" height="690" frameX="-12" frameY="-1" frameWidth="393" frameHeight="692"/>
+	<SubTexture name="lil boy idle0008" x="1511" y="3" width="385" height="692" frameX="-2" frameY="0" frameWidth="393" frameHeight="692"/>
+	<SubTexture name="lil boy idle0009" x="1511" y="3" width="385" height="692" frameX="-2" frameY="0" frameWidth="393" frameHeight="692"/>
+	<SubTexture name="lil boy idle0010" x="3" y="698" width="387" height="692" frameX="0" frameY="0" frameWidth="393" frameHeight="692"/>
+	<SubTexture name="lil boy idle0011" x="3" y="698" width="387" height="692" frameX="0" frameY="0" frameWidth="393" frameHeight="692"/>
+	<SubTexture name="lil boy idle0012" x="393" y="698" width="386" height="692" frameX="-1" frameY="0" frameWidth="393" frameHeight="692"/>
+	<SubTexture name="lil boy idle0013" x="393" y="698" width="386" height="692" frameX="-1" frameY="0" frameWidth="393" frameHeight="692"/>
+</TextureAtlas>

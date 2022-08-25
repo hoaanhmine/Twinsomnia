@@ -1,0 +1,178 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				37,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "BF dies"
+		},
+		{
+			"offsets": [
+				37,
+				5
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "BF Dead Loop"
+		},
+		{
+			"offsets": [
+				37,
+				69
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "BF Dead confirm"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				2
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "bf left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-12
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "bf down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-64,
+				16
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "bf up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				-1
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "bf right miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				-4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bf down 40",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-35,
+				2
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bf left 40",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bf right 40",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				15
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "bf up alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-47,
+				15
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bf up alt 40",
+			"indices": [
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80
+			]
+		},
+		{
+			"offsets": [
+				-47,
+				15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "bf up alt"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/the_one_in_powerhour",
+	"position": [
+		-50,
+		390
+	],
+	"healthicon": "boof",
+	"flip_x": true,
+	"healthbar_colors": [
+		72,
+		60,
+		255
+	],
+	"camera_position": [
+		80,
+		-20
+	],
+	"sing_duration": 9.99999999999998,
+	"scale": 1
+}

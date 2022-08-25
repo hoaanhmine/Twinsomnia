@@ -1,0 +1,11 @@
+{
+	"idle_anim": "lil boy idle",
+	"image": "Menu_boy",
+	"position": [
+		140,
+		120
+	],
+	"flipX": false,
+	"scale": 0.75,
+	"confirm_anim": "M Dad Idle"
+}

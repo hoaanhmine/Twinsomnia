@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="holy fuck why are you so big.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="boy idle0000" x="0" y="0" width="1115" height="1147" frameX="0" frameY="-55" frameWidth="1115" frameHeight="1202"/>
+	<SubTexture name="boy idle0001" x="0" y="0" width="1115" height="1147" frameX="0" frameY="-55" frameWidth="1115" frameHeight="1202"/>
+	<SubTexture name="boy idle0002" x="1125" y="0" width="1113" height="1151" frameX="-2" frameY="-51" frameWidth="1115" frameHeight="1202"/>
+	<SubTexture name="boy idle0003" x="1125" y="0" width="1113" height="1151" frameX="-2" frameY="-51" frameWidth="1115" frameHeight="1202"/>
+	<SubTexture name="boy idle0004" x="2248" y="0" width="1110" height="1174" frameX="-5" frameY="-28" frameWidth="1115" frameHeight="1202"/>
+	<SubTexture name="boy idle0005" x="2248" y="0" width="1110" height="1174" frameX="-5" frameY="-28" frameWidth="1115" frameHeight="1202"/>
+	<SubTexture name="boy idle0006" x="3368" y="0" width="1108" height="1190" frameX="-7" frameY="-12" frameWidth="1115" frameHeight="1202"/>
+	<SubTexture name="boy idle0007" x="3368" y="0" width="1108" height="1190" frameX="-7" frameY="-12" frameWidth="1115" frameHeight="1202"/>
+	<SubTexture name="boy idle0008" x="4486" y="0" width="1108" height="1201" frameX="-7" frameY="-1" frameWidth="1115" frameHeight="1202"/>
+	<SubTexture name="boy idle0009" x="4486" y="0" width="1108" height="1201" frameX="-7" frameY="-1" frameWidth="1115" frameHeight="1202"/>
+	<SubTexture name="boy idle0010" x="5604" y="0" width="1108" height="1202" frameX="-7" frameY="0" frameWidth="1115" frameHeight="1202"/>
+	<SubTexture name="boy idle0011" x="5604" y="0" width="1108" height="1202" frameX="-7" frameY="0" frameWidth="1115" frameHeight="1202"/>
+	<SubTexture name="boy idle0012" x="6722" y="0" width="1108" height="1200" frameX="-7" frameY="-2" frameWidth="1115" frameHeight="1202"/>
+	<SubTexture name="boy idle0013" x="6722" y="0" width="1108" height="1200" frameX="-7" frameY="-2" frameWidth="1115" frameHeight="1202"/>
+	<SubTexture name="boy neck crack0000" x="0" y="1212" width="1108" height="1176" frameX="0" frameY="-11" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0001" x="0" y="1212" width="1108" height="1176" frameX="0" frameY="-11" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0002" x="1118" y="1212" width="1108" height="1138" frameX="0" frameY="-49" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0003" x="1118" y="1212" width="1108" height="1138" frameX="0" frameY="-49" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0004" x="2236" y="1212" width="1108" height="1133" frameX="0" frameY="-54" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0005" x="2236" y="1212" width="1108" height="1133" frameX="0" frameY="-54" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0006" x="2236" y="1212" width="1108" height="1133" frameX="0" frameY="-54" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0007" x="3354" y="1212" width="1108" height="1098" frameX="0" frameY="-89" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0008" x="4472" y="1212" width="1108" height="1130" frameX="0" frameY="-57" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0009" x="4472" y="1212" width="1108" height="1130" frameX="0" frameY="-57" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0010" x="5590" y="1212" width="1108" height="1138" frameX="0" frameY="-49" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0011" x="5590" y="1212" width="1108" height="1138" frameX="0" frameY="-49" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0012" x="6708" y="1212" width="1108" height="1135" frameX="0" frameY="-52" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0013" x="6708" y="1212" width="1108" height="1135" frameX="0" frameY="-52" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0014" x="6708" y="1212" width="1108" height="1135" frameX="0" frameY="-52" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0015" x="0" y="2398" width="1108" height="1131" frameX="0" frameY="-56" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0016" x="0" y="2398" width="1108" height="1131" frameX="0" frameY="-56" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0017" x="0" y="2398" width="1108" height="1131" frameX="0" frameY="-56" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0018" x="0" y="2398" width="1108" height="1131" frameX="0" frameY="-56" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0019" x="0" y="2398" width="1108" height="1131" frameX="0" frameY="-56" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0020" x="0" y="2398" width="1108" height="1131" frameX="0" frameY="-56" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0021" x="0" y="2398" width="1108" height="1131" frameX="0" frameY="-56" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0022" x="1118" y="2398" width="1108" height="1127" frameX="0" frameY="-60" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0023" x="1118" y="2398" width="1108" height="1127" frameX="0" frameY="-60" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0024" x="2236" y="2398" width="1108" height="1107" frameX="0" frameY="-80" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0025" x="2236" y="2398" width="1108" height="1107" frameX="0" frameY="-80" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0026" x="3354" y="2398" width="1108" height="1126" frameX="0" frameY="-61" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0027" x="4472" y="2398" width="1108" height="1158" frameX="0" frameY="-29" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0028" x="4472" y="2398" width="1108" height="1158" frameX="0" frameY="-29" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0029" x="4472" y="2398" width="1108" height="1158" frameX="0" frameY="-29" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0030" x="5590" y="2398" width="1108" height="1153" frameX="0" frameY="-34" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0031" x="5590" y="2398" width="1108" height="1153" frameX="0" frameY="-34" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0032" x="6708" y="2398" width="1108" height="1150" frameX="0" frameY="-37" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0033" x="6708" y="2398" width="1108" height="1150" frameX="0" frameY="-37" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0034" x="6708" y="2398" width="1108" height="1150" frameX="0" frameY="-37" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0035" x="6708" y="2398" width="1108" height="1150" frameX="0" frameY="-37" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0036" x="6708" y="2398" width="1108" height="1150" frameX="0" frameY="-37" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0037" x="6708" y="2398" width="1108" height="1150" frameX="0" frameY="-37" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0038" x="0" y="3566" width="1108" height="1148" frameX="0" frameY="-39" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0039" x="0" y="3566" width="1108" height="1148" frameX="0" frameY="-39" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0040" x="0" y="3566" width="1108" height="1148" frameX="0" frameY="-39" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0041" x="1118" y="3566" width="1108" height="1142" frameX="0" frameY="-45" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0042" x="1118" y="3566" width="1108" height="1142" frameX="0" frameY="-45" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0043" x="2236" y="3566" width="1108" height="1136" frameX="0" frameY="-51" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0044" x="2236" y="3566" width="1108" height="1136" frameX="0" frameY="-51" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0045" x="3354" y="3566" width="1108" height="1130" frameX="0" frameY="-57" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0046" x="3354" y="3566" width="1108" height="1130" frameX="0" frameY="-57" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0047" x="3354" y="3566" width="1108" height="1130" frameX="0" frameY="-57" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0048" x="3354" y="3566" width="1108" height="1130" frameX="0" frameY="-57" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0049" x="3354" y="3566" width="1108" height="1130" frameX="0" frameY="-57" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0050" x="4472" y="3566" width="1108" height="1129" frameX="0" frameY="-58" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0051" x="4472" y="3566" width="1108" height="1129" frameX="0" frameY="-58" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0052" x="4472" y="3566" width="1108" height="1129" frameX="0" frameY="-58" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0053" x="5590" y="3566" width="1108" height="1131" frameX="0" frameY="-56" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0054" x="5590" y="3566" width="1108" height="1131" frameX="0" frameY="-56" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0055" x="5590" y="3566" width="1108" height="1131" frameX="0" frameY="-56" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0056" x="6708" y="3566" width="1108" height="1166" frameX="0" frameY="-21" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0057" x="6708" y="3566" width="1108" height="1166" frameX="0" frameY="-21" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0058" x="6708" y="3566" width="1108" height="1166" frameX="0" frameY="-21" frameWidth="1108" frameHeight="1187"/>
+	<SubTexture name="boy neck crack0059" x="0" y="4742" width="1108" height="1187"/>
+	<SubTexture name="boy neck crack0060" x="0" y="4742" width="1108" height="1187"/>
+</TextureAtlas>

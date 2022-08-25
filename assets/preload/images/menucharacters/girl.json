@@ -1,0 +1,11 @@
+{
+	"idle_anim": "smaller girl left bop",
+	"image": "Menu_girl",
+	"position": [
+		-84,
+		-124
+	],
+	"flipX": false,
+	"scale": 1.2,
+	"confirm_anim": "M Dad Idle"
+}

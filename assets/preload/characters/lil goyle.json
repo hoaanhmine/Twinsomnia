@@ -1,0 +1,120 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-23,
+				-4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "lil girl right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				22
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "lil girl up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-36,
+				-32
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "lil girl down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "lil girl left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "lil girl idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28
+			],
+			"name": "lil girl idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/goyle",
+	"position": [
+		0,
+		260
+	],
+	"healthicon": "girl",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		160,
+		255
+	],
+	"camera_position": [
+		30,
+		10
+	],
+	"sing_duration": 4.9,
+	"scale": 1
+}
